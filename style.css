@@ -1,0 +1,22 @@
+section {
+margin-left: auto;
+margin-right: auto;
+
+}
+.box { 
+    height: 118px;
+    width: 293px;
+    background-color: rgb(126, 229, 218);
+    float: left;
+    margin-left: 3px;
+    margin-top: 10px;
+    padding-top: 10px;
+
+
+}
+.box-1{
+    width: 200px;
+}
+.clear{
+    clear: both;
+}
